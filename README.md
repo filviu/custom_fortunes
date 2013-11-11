@@ -25,5 +25,5 @@ I'm pretty sure if you customize fortune on your linux systems you know how to d
 Databases
 =========
 
-ncis - mainly Gibbs rules but other quotes and funny lines as well
-simpsons - bart's blackboard
+* ncis - mainly Gibbs rules but other quotes and funny lines as well
+* simpsons - bart's blackboard
